@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    font-size: medium;
+    color: whitesmoke;
+}
+body {
+    display: block;
+    color: black;
+}
+p {
+    color: antiquewhite;
+}
