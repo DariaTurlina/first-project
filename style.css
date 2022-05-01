@@ -9,6 +9,7 @@ body {
 }
 p {
     color: antiquewhite;
+    Font-color: black;
 }
 head {
     display: flex;
