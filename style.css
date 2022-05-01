@@ -10,3 +10,7 @@ body {
 p {
     color: antiquewhite;
 }
+head {
+    display: flex;
+    color: black;
+}
